@@ -28,6 +28,12 @@ android
 
   example: http://www.cnblogs.com/salam/archive/2010/11/10/1873654.html
 
-4. AtomicBoolean
+4. AtomicBoolean,进程运行情况
+
+   通过判断 AtomicBoolean ,可中断运行中后台任务
+
+5. IntentService
+
+   IntentService is a base class for Services that handle asynchronous requests (expressed as Intents) on demand.
 
    --END
